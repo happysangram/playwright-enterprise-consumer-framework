@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+reports/
+
+# OS
+.DS_Store
+
+# Secrets - never commit auth tokens
+.npmrc
