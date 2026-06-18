@@ -11,6 +11,3 @@ reports/
 
 # OS
 .DS_Store
-
-# Secrets - never commit auth tokens
-.npmrc
